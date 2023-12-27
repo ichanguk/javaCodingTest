@@ -12,6 +12,11 @@
 [3. 거리두기 확인하기 - Level 2](https://programmers.co.kr/learn/courses/30/lessons/81302) </br>
 [4. 행렬의 곱셈 - Level 2](https://programmers.co.kr/learn/courses/30/lessons/12949) </br>
 
+풀이 </br>
+[1. 교점에 별 만들기](https://github.com/ichanguk/javaCodingTest/blob/main/chapter3/%EA%B5%90%EC%A0%90%EC%97%90_%EB%B3%84_%EB%A7%8C%EB%93%A4%EA%B8%B0.java) </br>
+
+
+
 #### 4장. 문자열
 [5. 자연수 뒤집어 배열로 만들기 – Level 1](https://programmers.co.kr/learn/courses/30/lessons/12932) </br>
 [6. 시저 암호 - Level 1](https://programmers.co.kr/learn/courses/30/lessons/12926) </br>
