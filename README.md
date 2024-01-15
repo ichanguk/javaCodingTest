@@ -16,7 +16,7 @@
 [1. 교점에 별 만들기](https://github.com/ichanguk/javaCodingTest/blob/main/chapter3/%EA%B5%90%EC%A0%90%EC%97%90_%EB%B3%84_%EB%A7%8C%EB%93%A4%EA%B8%B0.java) </br>
 [2. 삼각 달팽이](https://github.com/ichanguk/javaCodingTest/blob/main/chapter3/%EC%82%BC%EA%B0%81_%EB%8B%AC%ED%8C%BD%EC%9D%B4.java) </br>
 [3. 거리두기 확인하기](https://github.com/ichanguk/javaCodingTest/blob/main/chapter3/%EA%B1%B0%EB%A6%AC%EB%91%90%EA%B8%B0_%ED%99%95%EC%9D%B8%ED%95%98%EA%B8%B0.java) </br>
-
+[4. 행렬의 곱셈](https://github.com/ichanguk/javaCodingTest/blob/main/chapter3/%ED%96%89%EB%A0%AC%EC%9D%98_%EA%B3%B1%EC%85%88.java) </br>
 
 
 
