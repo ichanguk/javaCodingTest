@@ -18,11 +18,11 @@
 [7. 이상한 문자 만들기 – Level 1](https://programmers.co.kr/learn/courses/30/lessons/12930) / [(풀이)](https://github.com/ichanguk/javaCodingTest/blob/main/chapter4/%EC%9D%B4%EC%83%81%ED%95%9C_%EB%AC%B8%EC%9E%90_%EB%A7%8C%EB%93%A4%EA%B8%B0.java) </br>
 [8. 문자열 압축 – Level 2](https://programmers.co.kr/learn/courses/30/lessons/60057) / [(풀이)](https://github.com/ichanguk/javaCodingTest/blob/main/chapter4/%EB%AC%B8%EC%9E%90%EC%97%B4_%EC%95%95%EC%B6%95.java) </br>
 [9. 3진법 뒤집기 - Level 1](https://programmers.co.kr/learn/courses/30/lessons/68935) / [(풀이)](https://github.com/ichanguk/javaCodingTest/blob/main/chapter4/3%EC%A7%84%EB%B2%95_%EB%92%A4%EC%A7%91%EA%B8%B0.java) </br>
-[10. 이진 변환 반복하기 - Level 2](https://programmers.co.kr/learn/courses/30/lessons/70129) </br>
-[11. 문자열 내 p와 y의 개수 - Level 1](https://programmers.co.kr/learn/courses/30/lessons/12916) </br>
-[12. 숫자 문자열과 영단어 - Level 1](https://programmers.co.kr/learn/courses/30/lessons/81301) </br>
-[13. 문자열 다루기 기본 - Level 1](https://programmers.co.kr/learn/courses/30/lessons/12918) </br>
-[14. 신규 아이디 추천 - Level 1](https://programmers.co.kr/learn/courses/30/lessons/72410) </br>
+[10. 이진 변환 반복하기 - Level 2](https://programmers.co.kr/learn/courses/30/lessons/70129) / [(풀이)](https://github.com/ichanguk/javaCodingTest/blob/main/chapter4/%EC%9D%B4%EC%A7%84_%EB%B3%80%ED%99%98_%EB%B0%98%EB%B3%B5%ED%95%98%EA%B8%B0.java) </br>
+[11. 문자열 내 p와 y의 개수 - Level 1](https://programmers.co.kr/learn/courses/30/lessons/12916) / [(풀이)](https://github.com/ichanguk/javaCodingTest/blob/main/chapter4/%EB%AC%B8%EC%9E%90%EC%97%B4%EB%82%B4_py_%EA%B0%9C%EC%88%98.java) </br>
+[12. 숫자 문자열과 영단어 - Level 1](https://programmers.co.kr/learn/courses/30/lessons/81301) / [(풀이)](https://github.com/ichanguk/javaCodingTest/blob/main/chapter4/%EC%88%AB%EC%9E%90_%EB%AC%B8%EC%9E%90%EC%97%B4%EA%B3%BC_%EC%98%81%EB%8B%A8%EC%96%B4.java) </br>
+[13. 문자열 다루기 기본 - Level 1](https://programmers.co.kr/learn/courses/30/lessons/12918) / [(풀이)](https://github.com/ichanguk/javaCodingTest/blob/main/chapter4/%EB%AC%B8%EC%9E%90%EC%97%B4_%EB%8B%A4%EB%A3%A8%EA%B8%B0_%EA%B8%B0%EB%B3%B8.java) </br>
+[14. 신규 아이디 추천 - Level 1](https://programmers.co.kr/learn/courses/30/lessons/72410) / [(풀이)](https://github.com/ichanguk/javaCodingTest/blob/main/chapter4/%EC%8B%A0%EA%B7%9C_%EC%95%84%EC%9D%B4%EB%94%94_%EC%B6%94%EC%B2%9C.java) </br>
 
 #### 5장. 재귀
 
