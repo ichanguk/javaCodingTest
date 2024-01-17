@@ -33,6 +33,13 @@
 [13. 문자열 다루기 기본 - Level 1](https://programmers.co.kr/learn/courses/30/lessons/12918) </br>
 [14. 신규 아이디 추천 - Level 1](https://programmers.co.kr/learn/courses/30/lessons/72410) </br>
 
+풀이 </br>
+[5. 자연수 뒤집어 배열로 만들기](https://github.com/ichanguk/javaCodingTest/blob/main/chapter4/%EC%9E%90%EC%97%B0%EC%88%98_%EB%92%A4%EC%A7%91%EC%96%B4_%EB%B0%B0%EC%97%B4%EB%A1%9C_%EB%A7%8C%EB%93%A4%EA%B8%B0.java) </br>
+[6. 시저 암호](https://github.com/ichanguk/javaCodingTest/blob/main/chapter4/%EC%8B%9C%EC%A0%80_%EC%95%94%ED%98%B8.java) </br>
+[7. 이상한 문자 만들기](https://github.com/ichanguk/javaCodingTest/blob/main/chapter4/%EC%9D%B4%EC%83%81%ED%95%9C_%EB%AC%B8%EC%9E%90_%EB%A7%8C%EB%93%A4%EA%B8%B0.java) </br>
+[8. 문자열 압축](https://github.com/ichanguk/javaCodingTest/blob/main/chapter4/%EB%AC%B8%EC%9E%90%EC%97%B4_%EC%95%95%EC%B6%95.java) </br>
+[9. 3진법 뒤집기](https://github.com/ichanguk/javaCodingTest/blob/main/chapter4/3%EC%A7%84%EB%B2%95_%EB%92%A4%EC%A7%91%EA%B8%B0.java) </br>
+
 #### 5장. 재귀
 
 [15. 쿼드압축 후 개수 세기 - Level 2](https://school.programmers.co.kr/learn/courses/30/lessons/68936) </br>
