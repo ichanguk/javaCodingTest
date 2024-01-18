@@ -33,7 +33,7 @@
 
 #### 6장. 완전 탐색
 
-[18. 모의고사 – Level 1](https://school.programmers.co.kr/learn/courses/30/lessons/42840) </br>
+[18. 모의고사 – Level 1](https://school.programmers.co.kr/learn/courses/30/lessons/42840) / [(풀이)](https://github.com/ichanguk/javaCodingTest/blob/main/chapter6/%EB%AA%A8%EC%9D%98%EA%B3%A0%EC%82%AC.java)</br>
 [19. 카펫 – Level 2](https://school.programmers.co.kr/learn/courses/30/lessons/42842) </br>
 [20. 수식 최대화 - Level 2](https://school.programmers.co.kr/learn/courses/30/lessons/67257) </br>
 [21. 소수 찾기 – Level 2](https://school.programmers.co.kr/learn/courses/30/lessons/42839) </br>
