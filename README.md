@@ -28,7 +28,7 @@
 
 [15. 쿼드압축 후 개수 세기 - Level 2](https://school.programmers.co.kr/learn/courses/30/lessons/68936) / [(풀이)](https://github.com/ichanguk/javaCodingTest/blob/main/chapter5/%EC%BF%BC%EB%93%9C%EC%95%95%EC%B6%95%ED%9B%84_%EA%B0%9C%EC%88%98_%EC%84%B8%EA%B8%B0.java)</br>
 [16. 하노이의 탑 - Level 2](https://school.programmers.co.kr/learn/courses/30/lessons/12946) / [(풀이)](https://github.com/ichanguk/javaCodingTest/blob/main/chapter5/%ED%95%98%EB%85%B8%EC%9D%B4%EC%9D%98_%ED%83%91.java)</br>
-[17. 모음 사전 - Level 2](https://school.programmers.co.kr/learn/courses/30/lessons/84512) </br>
+[17. 모음 사전 - Level 2](https://school.programmers.co.kr/learn/courses/30/lessons/84512) / [(풀이)](https://github.com/ichanguk/javaCodingTest/blob/main/chapter5/%EB%AA%A8%EC%9D%8C_%EC%82%AC%EC%A0%84.java)</br>
 
 
 #### 6장. 완전 탐색
