@@ -35,7 +35,7 @@
 
 [18. 모의고사 – Level 1](https://school.programmers.co.kr/learn/courses/30/lessons/42840) / [(풀이)](https://github.com/ichanguk/javaCodingTest/blob/main/chapter6/%EB%AA%A8%EC%9D%98%EA%B3%A0%EC%82%AC.java)</br>
 [19. 카펫 – Level 2](https://school.programmers.co.kr/learn/courses/30/lessons/42842) / [(풀이)](https://github.com/ichanguk/javaCodingTest/blob/main/chapter6/%EC%B9%B4%ED%8E%AB.java)</br>
-[20. 수식 최대화 - Level 2](https://school.programmers.co.kr/learn/courses/30/lessons/67257) </br>
+[20. 수식 최대화 - Level 2](https://school.programmers.co.kr/learn/courses/30/lessons/67257) / [(풀이)](https://github.com/ichanguk/javaCodingTest/blob/main/chapter6/%EC%88%98%EC%8B%9D_%EC%B5%9C%EB%8C%80%ED%99%94.java)</br>
 [21. 소수 찾기 – Level 2](https://school.programmers.co.kr/learn/courses/30/lessons/42839) </br>
 [22. 불량 사용자 - Level 3](https://school.programmers.co.kr/learn/courses/30/lessons/64064) </br>
 
